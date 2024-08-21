@@ -1,1 +1,1 @@
-print("ois vc ‚ garoto de programa?") 
+print("hello world") 
